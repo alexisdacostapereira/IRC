@@ -1,0 +1,1 @@
+const ipServer = "http://localhost:30";

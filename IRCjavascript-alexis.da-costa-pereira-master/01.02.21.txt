@@ -1,0 +1,3 @@
+Lecture de la doc / Configuration des modules Bcrypt , Jsonwebtoken, passport , jwt.
+Creation compte cloudinary + lecture de la doc.
+Installation jade + lecture doc
